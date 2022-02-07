@@ -1,0 +1,4 @@
+common:
+  src_batch: 32
+  tgt_batch: 32
+  lr: 0.0001
